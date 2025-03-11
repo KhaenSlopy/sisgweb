@@ -12,14 +12,17 @@
 //   </React.StrictMode>,
 //   document.getElementById('root')  // ใช้ element id "root" ที่กำหนดใน index.html
 // );
-import React from 'react';
-import ReactDOM from 'react-dom/client'; // ใช้ 'react-dom/client' สำหรับ React 18+
-import './index.css';
-import App from './App';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { BrowserRouter } from "react-router-dom"; // นำเข้า BrowserRouter
+import App from "./App";
+import "./index.css";
 
-const root = ReactDOM.createRoot(document.getElementById('root')); // ใช้ createRoot()
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
