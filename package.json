@@ -2,7 +2,6 @@
   "name": "my-react-tailwind-app",
   "version": "0.1.0",
   "private": true,
-  
   "dependencies": {
     "@react-google-maps/api": "^2.20.5",
     "cra-template": "1.2.0",
@@ -17,7 +16,6 @@
     "web-vitals": "^4.2.4"
   },
   "homepage": "https://slopy.in.th",
-
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
