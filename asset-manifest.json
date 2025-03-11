@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sisgweb/static/css/main.80499b18.css",
-    "main.js": "/sisgweb/static/js/main.73d8ca21.js",
+    "main.css": "/sisgweb/static/css/main.6f967398.css",
+    "main.js": "/sisgweb/static/js/main.76123a6d.js",
     "static/media/contact.png": "/sisgweb/static/media/contact.206a15f8543b0fe5bf2b.png",
     "static/media/p1.png": "/sisgweb/static/media/p1.53d40033c67d7ea4463d.png",
     "static/media/mbapp1.png": "/sisgweb/static/media/mbapp1.747ac68e45140f61f341.png",
@@ -18,11 +18,11 @@
     "static/media/responsive.png": "/sisgweb/static/media/responsive.171bc0314afab8fc6fee.png",
     "static/media/thing.png": "/sisgweb/static/media/thing.eae350bca6332e38ca9a.png",
     "index.html": "/sisgweb/index.html",
-    "main.80499b18.css.map": "/sisgweb/static/css/main.80499b18.css.map",
-    "main.73d8ca21.js.map": "/sisgweb/static/js/main.73d8ca21.js.map"
+    "main.6f967398.css.map": "/sisgweb/static/css/main.6f967398.css.map",
+    "main.76123a6d.js.map": "/sisgweb/static/js/main.76123a6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.80499b18.css",
-    "static/js/main.73d8ca21.js"
+    "static/css/main.6f967398.css",
+    "static/js/main.76123a6d.js"
   ]
 }
