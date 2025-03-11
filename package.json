@@ -2,7 +2,7 @@
   "name": "my-react-tailwind-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  
   "dependencies": {
     "@react-google-maps/api": "^2.20.5",
     "cra-template": "1.2.0",
