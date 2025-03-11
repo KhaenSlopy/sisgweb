@@ -16,7 +16,7 @@
     "sweetalert2": "^11.15.10",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://KhaenSlopy.github.io/sisgweb",
+  "homepage": "https://slopy.in.th",
 
   "scripts": {
     "start": "react-scripts start",
