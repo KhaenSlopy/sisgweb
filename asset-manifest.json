@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sisgweb/static/css/main.80499b18.css",
+    "main.js": "/sisgweb/static/js/main.f1627d68.js",
+    "static/media/contact.png": "/sisgweb/static/media/contact.206a15f8543b0fe5bf2b.png",
+    "static/media/p1.png": "/sisgweb/static/media/p1.53d40033c67d7ea4463d.png",
+    "static/media/mbapp1.png": "/sisgweb/static/media/mbapp1.747ac68e45140f61f341.png",
+    "static/media/iotp1.png": "/sisgweb/static/media/iotp1.95b9d5aa5ac58f123b27.png",
+    "static/media/webp1.png": "/sisgweb/static/media/webp1.e9071ce679bb373edd7a.png",
+    "static/media/winapp2.png": "/sisgweb/static/media/winapp2.00ee1029e45b49f528aa.png",
+    "static/media/dbapp1.png": "/sisgweb/static/media/dbapp1.dd3026105a85c30d0ee5.png",
+    "static/media/webdes.png": "/sisgweb/static/media/webdes.96650e7779a2453f6710.png",
+    "static/media/iots4.png": "/sisgweb/static/media/iots4.c9e90ed4053da05acdc4.png",
+    "static/media/service.png": "/sisgweb/static/media/service.a891f4bd021646a55d95.png",
+    "static/media/logosss.png": "/sisgweb/static/media/logosss.47941f5b70c7f797dd1c.png",
+    "static/media/iots2.png": "/sisgweb/static/media/iots2.8b86b0237616b1af51c2.png",
+    "static/media/iots3.png": "/sisgweb/static/media/iots3.36d8ac2fa1b922d79f27.png",
+    "static/media/responsive.png": "/sisgweb/static/media/responsive.171bc0314afab8fc6fee.png",
+    "static/media/thing.png": "/sisgweb/static/media/thing.eae350bca6332e38ca9a.png",
+    "index.html": "/sisgweb/index.html",
+    "main.80499b18.css.map": "/sisgweb/static/css/main.80499b18.css.map",
+    "main.f1627d68.js.map": "/sisgweb/static/js/main.f1627d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80499b18.css",
+    "static/js/main.f1627d68.js"
+  ]
+}
